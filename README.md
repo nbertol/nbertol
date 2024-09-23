@@ -4,7 +4,7 @@
 
 🎓 Graduated in Computer Engineering
 
-💻 I'm a Backend Developer
+💻 I'm a Security Analyst
 
 📚 Focused in Networks and Cybersecurity
 
