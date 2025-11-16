@@ -4,7 +4,7 @@
 
 🎓 Graduated in Computer Engineering
 
-💻 I'm a Security Analyst
+💻 I'm a Cybersecurity Specialist passionate about Math and Physics
 
 📚 Focused in Networks and Cybersecurity
 
