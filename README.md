@@ -4,9 +4,9 @@
 
 🎓 Graduated in Computer Engineering
 
-💻 I'm a Cybersecurity Specialist passionate about Math and Physics
+💻 I'm a Cybersecurity Specialist 
 
-📚 Focused in Networks and Cybersecurity
+📚 Focused in Networks, Cybersecurity, Math and Physics
 
 🔤 I'm a polyglot
 
